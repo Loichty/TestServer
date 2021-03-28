@@ -1,0 +1,4 @@
+name: TestServer
+version: ${project.version}
+main: de.zarex.testserver.Main
+api-version: 1.16
